@@ -99,5 +99,3 @@ These findings reveal patterns that contribute to a song’s success.
 
 ## Presentation
 - [Google Slides Presentation](https://drive.google.com/file/d/1ivx7intEQ_CAKTABxpK042pRiCcw7dJ0/view?usp=drive_link)  
-
-## Repository Structure
